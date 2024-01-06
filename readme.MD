@@ -1,0 +1,4 @@
+# Advent of Code 2023
+My solutions to the [Advent of Code 2023](https://adventofcode.com/2023) puzzles.
+
+Advent of Code is an annual set of programming challenges, with more than 300,000 people participating in 2023. Every year from December 1 to December 25, a new edition is hosted, releasing 2 puzzles daily. The puzzles gradually increase in difficulty over the days. While the first puzzle of each day can often be solved with a more brute-force approach, the second puzzle generally requires a smarter algorithm or reframing of the problem to make it computationally feasible to find the solution. The puzzles demand a wide variety of solution methods, making them suitable to learn about a broad range of algorithms. The types of algorithms I used in my solutions included recursive programming, flood filling, Dijkstra's algorithm, cycle detection, memoization, and solving linear equations.
